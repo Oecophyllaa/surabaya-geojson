@@ -13,6 +13,7 @@
             "properties": {
                 "id": "relation\/8225121",
                 "@id": "relation\/8225121",
+                "kecamatan_id": "1",
                 "admin_level": "6",
                 "name": "Tambak Sari",
                 "type": "boundary",
@@ -1002,6 +1003,7 @@
             "properties": {
                 "id": "relation\/8225175",
                 "@id": "relation\/8225175",
+                "kecamatan_id": "2",
                 "admin_level": "6",
                 "name": "Sukolilo",
                 "type": "boundary",
@@ -1969,6 +1971,7 @@
             "properties": {
                 "id": "relation\/8225259",
                 "@id": "relation\/8225259",
+                "kecamatan_id": "3",
                 "admin_level": "6",
                 "name": "Mulyorejo",
                 "type": "boundary",
@@ -3124,6 +3127,7 @@
             "properties": {
                 "id": "relation\/8225432",
                 "@id": "relation\/8225432",
+                "kecamatan_id": "4",
                 "admin_level": "6",
                 "name": "Gubeng",
                 "type": "boundary",
@@ -3869,6 +3873,7 @@
             "properties": {
                 "id": "relation\/8225437",
                 "@id": "relation\/8225437",
+                "kecamatan_id": "5",
                 "admin_level": "6",
                 "name": "Rungkut",
                 "type": "boundary",
@@ -5102,6 +5107,7 @@
             "properties": {
                 "id": "relation\/8225522",
                 "@id": "relation\/8225522",
+                "kecamatan_id": "6",
                 "admin_level": "6",
                 "name": "Tenggilis Mejoyo",
                 "type": "boundary",
@@ -6031,6 +6037,7 @@
             "properties": {
                 "id": "relation\/8225536",
                 "@id": "relation\/8225536",
+                "kecamatan_id": "7",
                 "admin_level": "6",
                 "name": "Gunung Anyar",
                 "type": "boundary",
